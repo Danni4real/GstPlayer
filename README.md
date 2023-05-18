@@ -1,1 +1,1 @@
-# GstPlayer
+A MediaPlayer based on gstreamer
